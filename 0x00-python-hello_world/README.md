@@ -1,4 +1,4 @@
-Welcome to the Python world!
+WELCOME TO PYTHON WORLD!
 
 In this article, we will look into How to print “Hello World” in Python.
 
